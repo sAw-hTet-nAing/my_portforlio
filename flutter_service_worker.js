@@ -1018,9 +1018,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "164c6b5433251b8fc8e548b9ec2e1e2a
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "6b515e434cea20006b3ef1726d2c8894",
 "icons/fav.png": "e2846b1f890bc39ac6d1fde9d7b18d1b",
-"index.html": "51aae6f81895393affeef1b19d44166c",
-"/": "51aae6f81895393affeef1b19d44166c",
-"main.dart.js": "f1bd46f593e230da75320b1f23cfc6ab",
+"index.html": "db0c8a1954c435f9c28fede65efb4407",
+"/": "db0c8a1954c435f9c28fede65efb4407",
+"main.dart.js": "9e82018900914932155fce6eb1631a74",
 "manifest.json": "8b5b86fe869c037366650b51c909e81f",
 "style.css": "8201ac19d88a1600d2980564feb8ec84",
 "version.json": "f27e61a7f8d162d2ed1f4cceba446fbb"};

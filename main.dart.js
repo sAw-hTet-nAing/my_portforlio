@@ -71951,7 +71951,7 @@ if(q.a.c)s.a.sOk(0,20)
 else s.a.sOk(0,13)
 s=new A.b1(new Float64Array(3))
 s.cc(10,10,10)
-s=A.ag4(!1,"earth/earth.obj",!1,null,"earth",s,null)
+s=A.ag4(!1,"assets/earth/earth.obj",!1,null,"earth",s,null)
 q.e=s
 r=q.d.c
 r===$&&A.b()
@@ -72168,7 +72168,7 @@ ae(){return new A.Kx(B.l)}}
 A.Kx.prototype={
 J(a){return A.fK(new A.a7p(a),null,null,null,t.b)}}
 A.a7p.prototype={
-$1(a){var s=null,r=this.a,q=t.w,p=A.w(r,B.f,q).w,o=A.hl(A.w(r,B.f,q).w.a.b/47.67/2),n=A.w(r,B.f,q).w.a.b/71.5,m=A.ajc(A.hl(50),A.uI("/images/sawpp.png",A.w(r,B.f,q).w.a.b/17.88*2.5,A.w(r,B.f,q).w.a.b/17.88*2.5)),l=A.an(s,s,A.w(r,B.f,q).w.a.b/35.75),k=A.bx("Saw Htet Naing",s,s,s,s,s,A.co().$3$color$fontSize$fontWeight(B.j,A.w(r,B.f,q).w.a.b/59.58,B.a1),s,s),j=A.an(s,A.w(r,B.f,q).w.a.b/71.5,s),i=A.w(r,B.f,q).w,h=t.p
+$1(a){var s=null,r=this.a,q=t.w,p=A.w(r,B.f,q).w,o=A.hl(A.w(r,B.f,q).w.a.b/47.67/2),n=A.w(r,B.f,q).w.a.b/71.5,m=A.ajc(A.hl(50),A.uI("assets/images/sawpp.png",A.w(r,B.f,q).w.a.b/17.88*2.5,A.w(r,B.f,q).w.a.b/17.88*2.5)),l=A.an(s,s,A.w(r,B.f,q).w.a.b/35.75),k=A.bx("Saw Htet Naing",s,s,s,s,s,A.co().$3$color$fontSize$fontWeight(B.j,A.w(r,B.f,q).w.a.b/59.58,B.a1),s,s),j=A.an(s,A.w(r,B.f,q).w.a.b/71.5,s),i=A.w(r,B.f,q).w,h=t.p
 n=A.aj3(A.bK(s,A.dz(A.a([m,l,A.c4(A.a([k,j,A.an(A.bx(u._,s,s,s,s,s,A.co().$3$color$fontSize$fontWeight(B.V,A.w(r,B.f,q).w.a.b/59.58,B.k),s,s),s,i.a.a*0.3)],h),B.a2,B.D,B.t)],h),B.C,B.D,B.t),s,new A.d3(B.z,s,s,o,s,s,B.a6),s,s,s,new A.aL(n,n,n,n),s),B.jP,10,s)
 o=A.w(r,B.f,q).w
 return A.an(A.dz(A.a([n,A.an(A.c4(A.a([A.bx("Connect With Me",s,s,s,s,s,A.fe(r),s,s),A.an(s,s,A.w(r,B.f,q).w.a.b/71.5),B.kl,A.an(s,A.w(r,B.f,q).w.a.b/35.75,s),A.dz(A.a([A.hw(A.f7(B.iS,B.j,A.w(r,B.f,q).w.a.b/44.81*2),new A.a7l(a)),A.hw(A.f7(B.iT,B.j,A.w(r,B.f,q).w.a.b/44.81*2),new A.a7m(a)),A.hw(A.f7(B.iR,B.j,A.w(r,B.f,q).w.a.b/44.81*2),new A.a7n(a)),A.hw(A.f7(B.kw,B.j,A.w(r,B.f,q).w.a.b/44.81*2),new A.a7o(a))],h),B.C,B.et,B.t)],h),B.C,B.D,B.t),s,o.a.a*0.3)],h),B.a2,B.et,B.t),s,p.a.a*0.9)},
@@ -72195,7 +72195,7 @@ o=A.w(a,B.f,l).w.a.b/47.67/2
 o=new A.aF(o,o)
 n=new A.aF(50,50)
 r[q]=new A.dP(p.a.a*0.3,m,new A.oA(B.fO,5,new A.cx(new A.c3(o,o,o,o),B.v),A.c4(A.a([new A.dP(m,A.w(a,B.f,l).w.a.b/47.67,m,m),new A.oE(new A.c3(n,n,n,n),A.uI($.kx[q].j(0,"image"),A.w(a,B.f,l).w.a.b/17.88*1.5,A.w(a,B.f,l).w.a.b/17.88*1.5),m),new A.dP(m,A.w(a,B.f,l).w.a.b/71.5,m,m),new A.h3($.kx[q].j(0,"company"),m,A.co().$3$color$fontSize$fontWeight(B.j,A.w(a,B.f,l).w.a.b/59.58,B.a1),m,m,m,m,m,m,m,m),new A.h3($.kx[q].j(0,"year"),m,A.co().$3$color$fontSize$fontWeight(B.V,A.w(a,B.f,l).w.a.b/59.58,B.k),m,m,m,m,m,m,m,m),new A.h3($.kx[q].j(0,"role"),m,A.co().$3$color$fontSize$fontWeight(B.j,A.w(a,B.f,l).w.a.b/59.58,B.a1),m,m,m,m,m,m,m,m),new A.dP(m,A.w(a,B.f,l).w.a.b/71.5,m,m),A.amN(B.kO,B.wu,new A.Wh(this,q)),new A.dP(m,A.w(a,B.f,l).w.a.b/47.67,m,m)],i),B.C,B.D,B.t),m),m)}p=A.dz(r,B.C,B.D,B.t)
-o=A.u8(A.pA("/animations/show_case.json",m,m,m,m),1,m)
+o=A.u8(A.pA("assets/animations/show_case.json",m,m,m,m),1,m)
 l=A.w(a,B.f,l).w
 return A.an(A.c4(A.a([j,s,p,A.dz(A.a([o,A.an(A.bx("Let me help you to build wonderful apps.",m,m,m,m,m,A.a_G(a),m,m),m,l.a.a*0.4)],i),B.C,B.D,B.t)],i),B.a2,B.D,B.t),m,k.a.a*0.9)}}
 A.Wg.prototype={
@@ -72346,7 +72346,7 @@ ae(){return new A.N1(B.l)}}
 A.N1.prototype={
 J(a){return A.fK(new A.a9V(a),null,null,null,t.b)}}
 A.a9V.prototype={
-$1(a){var s=null,r=this.a,q=t.w,p=A.w(r,B.f,q).w,o=A.hl(A.w(r,B.f,q).w.a.b/47.67/2),n=A.w(r,B.f,q).w.a.b/71.5,m=A.ajc(A.hl(50),A.uI("/images/sawpp.png",A.w(r,B.f,q).w.a.b/17.88*2.5,A.w(r,B.f,q).w.a.b/17.88*2.5)),l=A.an(s,s,A.w(r,B.f,q).w.a.b/35.75),k=A.bx("Saw Htet Naing",s,s,s,s,s,A.co().$3$color$fontSize$fontWeight(B.j,A.w(r,B.f,q).w.a.b/59.58,B.a1),s,s),j=A.an(s,A.w(r,B.f,q).w.a.b/71.5,s),i=A.w(r,B.f,q).w,h=t.p
+$1(a){var s=null,r=this.a,q=t.w,p=A.w(r,B.f,q).w,o=A.hl(A.w(r,B.f,q).w.a.b/47.67/2),n=A.w(r,B.f,q).w.a.b/71.5,m=A.ajc(A.hl(50),A.uI("assets/images/sawpp.png",A.w(r,B.f,q).w.a.b/17.88*2.5,A.w(r,B.f,q).w.a.b/17.88*2.5)),l=A.an(s,s,A.w(r,B.f,q).w.a.b/35.75),k=A.bx("Saw Htet Naing",s,s,s,s,s,A.co().$3$color$fontSize$fontWeight(B.j,A.w(r,B.f,q).w.a.b/59.58,B.a1),s,s),j=A.an(s,A.w(r,B.f,q).w.a.b/71.5,s),i=A.w(r,B.f,q).w,h=t.p
 return A.an(A.c4(A.a([A.aj3(A.bK(s,A.dz(A.a([m,l,A.c4(A.a([k,j,A.an(A.bx(u._,s,s,s,s,s,A.co().$3$color$fontSize$fontWeight(B.V,A.w(r,B.f,q).w.a.b/59.58,B.k),s,s),s,i.a.a*0.45)],h),B.a2,B.D,B.t)],h),B.C,B.D,B.t),s,new A.d3(B.z,s,s,o,s,s,B.a6),s,s,s,new A.aL(n,n,n,n),s),B.jP,10,s),A.an(A.c4(A.a([A.bx("Connect With Me",s,s,s,s,s,A.fe(r),s,s),A.an(s,s,A.w(r,B.f,q).w.a.b/71.5),B.kl,A.an(s,A.w(r,B.f,q).w.a.b/35.75,s),A.dz(A.a([A.hw(A.f7(B.iS,B.j,A.w(r,B.f,q).w.a.b/44.81*2),new A.a9R(a)),A.hw(A.f7(B.iT,B.j,A.w(r,B.f,q).w.a.b/44.81*2),new A.a9S(a)),A.hw(A.f7(B.iR,B.j,A.w(r,B.f,q).w.a.b/44.81*2),new A.a9T(a)),A.hw(A.f7(B.kw,B.j,A.w(r,B.f,q).w.a.b/44.81*2),new A.a9U(a))],h),B.C,B.et,B.t)],h),B.C,B.D,B.t),s,s)],h),B.a2,B.et,B.t),s,p.a.a*0.9)},
 $S:36}
 A.a9R.prototype={
@@ -72373,7 +72373,7 @@ n=new A.aF(n,n)
 m=new A.aF(50,50)
 r[q]=new A.dP(p.a.a*0.3,o.a.b*0.35,new A.oA(B.fO,5,new A.cx(new A.c3(n,n,n,n),B.v),A.c4(A.a([new A.dP(l,A.w(a,B.f,k).w.a.b/47.67,l,l),new A.oE(new A.c3(m,m,m,m),A.uI($.kx[q].j(0,"image"),A.w(a,B.f,k).w.a.b/17.88*1.5,A.w(a,B.f,k).w.a.b/17.88*1.5),l),new A.dP(l,A.w(a,B.f,k).w.a.b/71.5,l,l),new A.h3($.kx[q].j(0,"company"),l,A.co().$3$color$fontSize$fontWeight(B.j,A.w(a,B.f,k).w.a.b/59.58,B.a1),B.bX,l,l,l,l,l,l,l),new A.h3($.kx[q].j(0,"year"),l,A.co().$3$color$fontSize$fontWeight(B.V,A.w(a,B.f,k).w.a.b/59.58,B.k),B.bX,l,l,l,l,l,l,l),new A.h3($.kx[q].j(0,"role"),l,A.co().$3$color$fontSize$fontWeight(B.j,A.w(a,B.f,k).w.a.b/59.58,B.a1),B.bX,l,l,l,l,l,l,l),B.Ju,A.amN(B.kO,B.wu,new A.a_d(this,q)),new A.dP(l,A.w(a,B.f,k).w.a.b/47.67,l,l)],h),B.C,B.D,B.t),l),l)}p=A.dz(r,B.C,B.D,B.t)
 o=A.w(a,B.f,k).w
-return A.an(A.c4(A.a([i,s,p,A.an(A.bx("Let me help you to build wonderful apps.",l,l,l,l,l,A.a_G(a),l,l),l,o.a.a*0.7),A.pA("/animations/show_case.json",l,l,A.w(a,B.f,k).w.a.b*0.5,A.w(a,B.f,k).w.a.a)],h),B.a2,B.D,B.t),l,j.a.a*0.9)}}
+return A.an(A.c4(A.a([i,s,p,A.an(A.bx("Let me help you to build wonderful apps.",l,l,l,l,l,A.a_G(a),l,l),l,o.a.a*0.7),A.pA("assets/animations/show_case.json",l,l,A.w(a,B.f,k).w.a.b*0.5,A.w(a,B.f,k).w.a.a)],h),B.a2,B.D,B.t),l,j.a.a*0.9)}}
 A.a_c.prototype={
 $1(a){return a.jp(0)},
 $S:18}
@@ -78746,11 +78746,11 @@ $.at9=function(){var s=t.n
 return A.a([A.a([0.41233895,0.35762064,0.18051042],s),A.a([0.2126,0.7152,0.0722],s),A.a([0.01932141,0.11916382,0.95034478],s)],t.zg)}()
 $.Ul=A.a([95.047,100,108.883],t.n)
 $.kx=function(){var s=t.N,r=t.z
-return A.a([A.aw(["year","2019 - 2020","image","/company/techplus.png","role","Junior Flutter Dev","company","Tech Plus Solutions","address","https://techplussolution.com/"],s,r),A.aw(["year","2021 (January) - 2022","image","/company/techron.jpg","role","Freelance Developer","company","TECHRON","address","https://www.facebook.com/profile.php?id=100089987413967"],s,r),A.aw(["year","2022 - Present","image","/company/app.jpg","role","Mid / Senior Flutter Developer","company","App.com.mm","address","https://app.com.mm/"],s,r)],t.H7)}()
+return A.a([A.aw(["year","2019 - 2020","image","assets/company/techplus.png","role","Junior Flutter Dev","company","Tech Plus Solutions","address","https://techplussolution.com/"],s,r),A.aw(["year","2021 (January) - 2022","image","assets/company/techron.jpg","role","Freelance Developer","company","TECHRON","address","https://www.facebook.com/profile.php?id=100089987413967"],s,r),A.aw(["year","2022 - Present","image","assets/company/app.jpg","role","Mid / Senior Flutter Developer","company","App.com.mm","address","https://app.com.mm/"],s,r)],t.H7)}()
 $.aei=function(){var s=t.N,r=t.z
-return A.a([A.aw(["name","Happy Live Plus (Movie Streaming App)","image","/projects/happylive.png"],s,r),A.aw(["name","Burmese GiTa (Music Learning App)","image","/projects/burmese_giya.png"],s,r),A.aw(["name","Mobile Mother (Multi Vendor Ecommerce App)","image","/projects/mobile_mother.png"],s,r),A.aw(["name","Wisdom Tree (Book Libiary App)","image","/projects/wt.jpg"],s,r),A.aw(["name","Kwee Lamin(Ecommerce App)","image","/projects/KweeLaMin.png"],s,r),A.aw(["name","One One Libiary(Ecommerce App)","image","/projects/one_one_book_store.png"],s,r)],t.H7)}()
+return A.a([A.aw(["name","Happy Live Plus (Movie Streaming App)","image","assets/projects/happylive.png"],s,r),A.aw(["name","Burmese GiTa (Music Learning App)","image","assets/projects/burmese_giya.png"],s,r),A.aw(["name","Mobile Mother (Multi Vendor Ecommerce App)","image","assets/projects/mobile_mother.png"],s,r),A.aw(["name","Wisdom Tree (Book Libiary App)","image","/projects/wt.jpg"],s,r),A.aw(["name","Kwee Lamin(Ecommerce App)","image","assets/projects/KweeLaMin.png"],s,r),A.aw(["name","One One Libiary(Ecommerce App)","image","assets/projects/one_one_book_store.png"],s,r)],t.H7)}()
 $.kC=function(){var s=t.N,r=t.z
-return A.a([A.aw(["name","Flutter","process",1,"percent",100,"image","/images/flutter.png"],s,r),A.aw(["name","Dart","process",0.9,"percent",90,"image","/images/dart.png"],s,r),A.aw(["name","Swift","process",0.7,"percent",70,"image","/images/swift.png"],s,r),A.aw(["name","Vs Code","process",1,"percent",100,"image","/images/vscode.png"],s,r),A.aw(["name","X Code","process",0.9,"percent",90,"image","/images/xcode.png"],s,r),A.aw(["name","Android Studio","process",0.7,"percent",70,"image","/images/android.png"],s,r),A.aw(["name","Figma","process",0.4,"percent",40,"image","/images/figma.png"],s,r),A.aw(["name","Ui/Ux","process",0.95,"percent",95,"image","/images/code.png"],s,r)],t.H7)}()
+return A.a([A.aw(["name","Flutter","process",1,"percent",100,"image","assets/images/flutter.png"],s,r),A.aw(["name","Dart","process",0.9,"percent",90,"image","/images/dart.png"],s,r),A.aw(["name","Swift","process",0.7,"percent",70,"image","assets/images/swift.png"],s,r),A.aw(["name","Vs Code","process",1,"percent",100,"image","assets/images/vscode.png"],s,r),A.aw(["name","X Code","process",0.9,"percent",90,"image","assets/images/xcode.png"],s,r),A.aw(["name","Android Studio","process",0.7,"percent",70,"image","assets/images/android.png"],s,r),A.aw(["name","Figma","process",0.4,"percent",40,"image","assets/images/figma.png"],s,r),A.aw(["name","Ui/Ux","process",0.95,"percent",95,"image","assets/images/code.png"],s,r)],t.H7)}()
 $.ann=null
 $.acI=null
 $.dH=A.a([4294967295,2147483647,1073741823,536870911,268435455,134217727,67108863,33554431,16777215,8388607,4194303,2097151,1048575,524287,262143,131071,65535,32767,16383,8191,4095,2047,1023,511,255,127,63,31,15,7,3,1,0],t.t)
