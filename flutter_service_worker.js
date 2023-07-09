@@ -8,7 +8,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "164c6b5433251b8fc8e548b9ec2e1e2a
 "assets/assets/animations/astronaut.json": "c23f1dc01deec661fd1b166338377099",
 "assets/assets/animations/development.json": "83dcca9bb736e2c3d60c5f4bde727e18",
 "assets/assets/animations/development2.json": "b40668e9cfd7ac70de8068a65c1f2fe0",
-"assets/assets/animations/show_case.json": "ada5cbbe628a7911c85048a2c162dd01",
+"/assets/animations/show_case.json": "ada5cbbe628a7911c85048a2c162dd01",
 "assets/assets/animations/space.json": "404c0e821f530288def0c93e4ac8a23f",
 "assets/assets/company/app.jpg": "8686b8b88d6a9ccd81515e147f9ea532",
 "assets/assets/company/techplus.png": "f1f9a4bc36a7c1f0006511b09df25025",
